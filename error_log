@@ -1,0 +1,67 @@
+[11-Nov-2016 12:54:13 Etc/GMT] PHP Notice:  Undefined variable: file in /home/cfnet2fj/public_html/techsupport/mail/mail.php on line 31
+[11-Nov-2016 12:54:13 Etc/GMT] PHP Notice:  Undefined variable: name in /home/cfnet2fj/public_html/techsupport/mail/mail.php on line 31
+[11-Nov-2016 12:54:13 Etc/GMT] PHP Notice:  Undefined variable: name in /home/cfnet2fj/public_html/techsupport/mail/mail.php on line 32
+[11-Nov-2016 12:56:00 Etc/GMT] PHP Notice:  Undefined variable: file in /home/cfnet2fj/public_html/techsupport/mail/mail.php on line 31
+[11-Nov-2016 12:56:00 Etc/GMT] PHP Notice:  Undefined variable: name in /home/cfnet2fj/public_html/techsupport/mail/mail.php on line 31
+[11-Nov-2016 12:56:00 Etc/GMT] PHP Notice:  Undefined variable: name in /home/cfnet2fj/public_html/techsupport/mail/mail.php on line 32
+[11-Nov-2016 13:01:41 Etc/GMT] PHP Notice:  Undefined variable: file in /home/cfnet2fj/public_html/techsupport/mail/mail.php on line 31
+[11-Nov-2016 13:01:41 Etc/GMT] PHP Notice:  Undefined variable: name in /home/cfnet2fj/public_html/techsupport/mail/mail.php on line 31
+[11-Nov-2016 13:01:41 Etc/GMT] PHP Notice:  Undefined variable: name in /home/cfnet2fj/public_html/techsupport/mail/mail.php on line 32
+[11-Nov-2016 13:07:59 Etc/GMT] PHP Notice:  Undefined variable: file in /home/cfnet2fj/public_html/techsupport/mail/mail.php on line 31
+[11-Nov-2016 13:07:59 Etc/GMT] PHP Notice:  Undefined variable: name in /home/cfnet2fj/public_html/techsupport/mail/mail.php on line 31
+[11-Nov-2016 13:07:59 Etc/GMT] PHP Notice:  Undefined variable: name in /home/cfnet2fj/public_html/techsupport/mail/mail.php on line 32
+[11-Nov-2016 13:08:42 Etc/GMT] PHP Notice:  Undefined variable: file in /home/cfnet2fj/public_html/techsupport/mail/mail.php on line 31
+[11-Nov-2016 13:08:42 Etc/GMT] PHP Notice:  Undefined variable: name in /home/cfnet2fj/public_html/techsupport/mail/mail.php on line 31
+[11-Nov-2016 13:08:42 Etc/GMT] PHP Notice:  Undefined variable: name in /home/cfnet2fj/public_html/techsupport/mail/mail.php on line 32
+[11-Nov-2016 13:09:31 Etc/GMT] PHP Notice:  Undefined variable: file in /home/cfnet2fj/public_html/techsupport/mail/mail.php on line 31
+[11-Nov-2016 13:09:31 Etc/GMT] PHP Notice:  Undefined variable: name in /home/cfnet2fj/public_html/techsupport/mail/mail.php on line 31
+[11-Nov-2016 13:09:31 Etc/GMT] PHP Notice:  Undefined variable: name in /home/cfnet2fj/public_html/techsupport/mail/mail.php on line 32
+[11-Nov-2016 13:10:42 Etc/GMT] PHP Notice:  Undefined variable: file in /home/cfnet2fj/public_html/techsupport/mail/mail.php on line 31
+[11-Nov-2016 13:10:42 Etc/GMT] PHP Notice:  Undefined variable: name in /home/cfnet2fj/public_html/techsupport/mail/mail.php on line 31
+[11-Nov-2016 13:10:42 Etc/GMT] PHP Notice:  Undefined variable: name in /home/cfnet2fj/public_html/techsupport/mail/mail.php on line 32
+[21-Nov-2016 07:15:26 Etc/GMT] PHP Notice:  Undefined variable: file in /home/cherr1v7/public_html/techsupport/mail.php on line 31
+[21-Nov-2016 07:15:26 Etc/GMT] PHP Notice:  Undefined variable: name in /home/cherr1v7/public_html/techsupport/mail.php on line 31
+[21-Nov-2016 07:15:26 Etc/GMT] PHP Notice:  Undefined variable: name in /home/cherr1v7/public_html/techsupport/mail.php on line 32
+[31-Dec-2016 18:40:08 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cherr1v7/public_html/techsupport/db.php on line 8
+[31-Dec-2016 18:40:08 Etc/GMT] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cherr1v7/public_html/techsupport/db.php on line 9
+[31-Dec-2016 18:40:08 Etc/GMT] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/cherr1v7/public_html/techsupport/db.php on line 9
+[02-Jan-2017 14:58:13 Asia/Kolkata] PHP Fatal error:  Call to undefined method User::pasterunalloc() in /home/cherr1v7/public_html/techsupport/application/controllers/selectUnpaster.php on line 73
+[02-Jan-2017 14:58:17 Asia/Kolkata] PHP Fatal error:  Call to undefined method User::pasterunalloc() in /home/cherr1v7/public_html/techsupport/application/controllers/selectUnpaster.php on line 73
+[10-Feb-2017 19:01:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home/cherr1v7/public_html/techsupport/application/controllers/createdCuscare.php on line 1947
+[10-Feb-2017 19:03:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home/cherr1v7/public_html/techsupport/application/controllers/createdCuscare.php on line 1947
+[11-Mar-2017 12:37:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:37:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:37:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:38:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:39:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:39:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:40:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:40:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:40:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:41:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:41:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:41:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:41:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:41:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:41:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:41:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:41:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:41:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:41:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:42:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:42:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:42:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:42:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:42:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:42:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:42:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:43:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:43:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:52:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:52:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:52:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:52:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[11-Mar-2017 12:52:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/cherr1v7/public_html/techsupport/application/models/cuscare.php on line 158
+[10-Apr-2017 17:50:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/cherr1v7/public_html/techsupport/application/views/add_requestuser1.php on line 365
+[11-Apr-2017 10:34:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/cherr1v7/public_html/techsupport/application/views/add_requestuser1.php on line 365
+[13-Apr-2017 12:58:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/cherr1v7/public_html/techsupport/application/views/add_requestuser1.php on line 365
